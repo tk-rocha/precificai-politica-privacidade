@@ -3,7 +3,7 @@
 
   <h1>Política de Privacidade</h1>
 
-  <p>Esta Política de Privacidade descreve como coletamos, usamos e protegemos as informações dos usuários que utilizam os serviços da <strong>Precifical</strong>, em conformidade com a Lei Geral de Proteção de Dados (LGPD).</p>
+  <p>Esta Política de Privacidade descreve como coletamos, usamos e protegemos as informações dos usuários que utilizam os serviços da <strong>Precificai</strong>, em conformidade com a Lei Geral de Proteção de Dados (LGPD).</p>
 
   <h2>1. Coleta de Dados</h2>
   <p>Coletamos informações para oferecer uma experiência personalizada e segura. Os dados podem incluir:</p>
